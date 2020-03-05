@@ -15,6 +15,9 @@ Ideads are welcome, if somebody have idea to implement a nice dynamic challenge 
 require lua package:
 
 https://github.com/tilkinsc/LuaOTP/
+
 https://github.com/aiq/basexx/blob/master/lib/basexx.lua
+
 https://github.com/kikito/sha1.lua
+
 https://github.com/kennyledet/Algorithm-Implementations/blob/master/ROT13_Cipher/Lua/Yonaba/rot13.lua
