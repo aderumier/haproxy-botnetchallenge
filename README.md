@@ -8,7 +8,7 @@ It's using a totp token.
 The js challenge itself is pretty basic, I'm doing a simply ror13 to avoid simply scrapping of html response.
 (you can also obsfucate the js if you want)
 
-Ideads are welcome, if somebody have idea to implement a nice dynamic challenge js, like haproxy enterprise antibot !
+Ideas are welcome, if somebody have idea to implement a nice dynamic challenge js, like haproxy enterprise antibot !
 
 
 
